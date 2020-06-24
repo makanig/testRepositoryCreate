@@ -1,0 +1,13 @@
+"","Name","Value"
+"1","DebtServiceCoverage",4.2
+"2","CashflowAggregateLoanMultiple",2.2
+"3","BusinessCreditScore",1.2
+"4","PersonalCreditScore",-1.1
+"5","SalesAndPOS",1.1
+"6","Payroll",0.5
+"7","Utility",-1
+"8","GrossMargin",1.5
+"9","TaxLiens",-1
+"10","Liquidity",0.5
+"11","Collateral",-0.5
+"12","Other",0.65
